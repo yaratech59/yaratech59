@@ -8,7 +8,7 @@ Let me introduce you about myself, my name is Shreyash; 16 y.o from India.
 
 - 🌱 I’m currently learning **Python, Css, Javascript**
 
-- 📫 How to reach me **yaramhmd2003@gmail.com**
+- 📫 How to reach me **yaramhmd200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
